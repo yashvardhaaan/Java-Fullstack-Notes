@@ -139,6 +139,75 @@ $files = @(
 "$root\07-Compiler-Design\09-Liveness-Analysis.md"
 "$root\07-Compiler-Design\10-Common-Subexpression-Elimination.md"
 
+# ==========================
+# Section 8 - Operating System
+# ==========================
+
+"$root\08-Operating-System\01-System-Calls.md"
+"$root\08-Operating-System\02-Processes.md"
+"$root\08-Operating-System\03-Threads.md"
+"$root\08-Operating-System\04-Inter-Process-Communication.md"
+"$root\08-Operating-System\05-Concurrency.md"
+"$root\08-Operating-System\06-Synchronization.md"
+"$root\08-Operating-System\07-Deadlocks.md"
+"$root\08-Operating-System\08-CPU-Scheduling.md"
+"$root\08-Operating-System\09-IO-Scheduling.md"
+"$root\08-Operating-System\10-Memory-Management.md"
+"$root\08-Operating-System\11-Virtual-Memory.md"
+"$root\08-Operating-System\12-File-Systems.md"
+
+# ==========================
+# Section 9 - Databases
+# ==========================
+
+"$root\09-Databases\01-ER-Model.md"
+"$root\09-Databases\02-Relational-Model.md"
+"$root\09-Databases\03-Relational-Algebra.md"
+"$root\09-Databases\04-Tuple-Calculus.md"
+"$root\09-Databases\05-SQL.md"
+"$root\09-Databases\06-Integrity-Constraints.md"
+"$root\09-Databases\07-Normal-Forms.md"
+"$root\09-Databases\08-File-Organization.md"
+"$root\09-Databases\09-Indexing.md"
+"$root\09-Databases\10-B-Trees.md"
+"$root\09-Databases\11-B+Trees.md"
+"$root\09-Databases\12-Transactions.md"
+"$root\09-Databases\13-Concurrency-Control.md"
+
+# ==========================
+# Section 10 - Computer Networks
+# ==========================
+
+"$root\10-Computer-Networks\01-OSI-Model.md"
+"$root\10-Computer-Networks\02-TCP-IP-Model.md"
+"$root\10-Computer-Networks\03-Principles-of-Layering.md"
+
+"$root\10-Computer-Networks\04-Circuit-Switching.md"
+"$root\10-Computer-Networks\05-Packet-Switching.md"
+"$root\10-Computer-Networks\06-Virtual-Circuit-Switching.md"
+
+"$root\10-Computer-Networks\07-Performance-Metrics.md"
+
+"$root\10-Computer-Networks\08-Error-Detection.md"
+"$root\10-Computer-Networks\09-Medium-Access-Control.md"
+"$root\10-Computer-Networks\10-Ethernet.md"
+
+"$root\10-Computer-Networks\11-Distance-Vector-Routing.md"
+"$root\10-Computer-Networks\12-Link-State-Routing.md"
+
+"$root\10-Computer-Networks\13-IPv4.md"
+"$root\10-Computer-Networks\14-Fragmentation.md"
+"$root\10-Computer-Networks\15-CIDR.md"
+"$root\10-Computer-Networks\16-Network-Address-Translation.md"
+
+"$root\10-Computer-Networks\17-TCP.md"
+"$root\10-Computer-Networks\18-Flow-Control.md"
+"$root\10-Computer-Networks\19-Congestion-Control.md"
+
+"$root\10-Computer-Networks\20-Socket-API.md"
+"$root\10-Computer-Networks\21-DNS.md"
+"$root\10-Computer-Networks\22-HTTP.md"
+
 )
 
 foreach ($file in $files) {
